@@ -1,0 +1,142 @@
+/* Custom Styles */
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td, th, a {
+  color: #3a3a3a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cream {
+  background: #faf8eb;
+}
+
+.yellow {
+  background: #febf45;
+}
+
+.red {
+  background: #ad1e24;
+}
+
+.gray {
+  background: #3a3a3a;
+}
+
+.font-light p,
+.font-light a {
+  color: #ffffff;
+}
+
+.font-dark p,
+.font-dark {
+  color: #3a3a3a;
+}
+
+.container.header {
+  background: #faf8eb;
+}
+
+.header-content {
+  padding: 1rem 0;
+}
+
+.body-drip {
+  border-top: 8px solid #ad1e24;
+}
+
+.button {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 1rem 0;
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+}
+
+.button.yellow {
+  background: #febf45;
+  color: #3a3a3a;
+}
+
+.social-icon.sm {
+  height: 25px;
+  width: 25px;
+}
+
+.social-icon.lg {
+  height: 35px;
+  width: 35px;
+}
+
+.logo {
+  max-width: 150px;
+  margin: 0 auto;
+}
+
+.share-text {
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.email-invite {
+  border-bottom: 8px solid #ad1e24;
+}
+
+.email-invite th {
+  text-align: center;
+}
+
+.event-teaser {
+  font-size: 20px;
+  text-align: center;
+}
+
+.email-image.featured {
+  margin: 2rem auto;
+  width: auto;
+}
+
+.email-title,
+.email-subtitle {
+  color: #ad1e24;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.email-title {
+  font-size: 30px;
+}
+
+.email-subtitle {
+  font-size: 20px;
+}
+
+.email-body {
+  font-size: 13px;
+}
+
+.linked-in img {
+  margin-top: 1px;
+}
+
+.email-focus {
+  background: #ffffff;
+  margin: 1rem 2rem;
+  padding: 1rem;
+}
+
+.sponsor-logo {
+  float: left;
+  margin-right: 1rem;
+  max-width: 100px;
+}
+
+.sponsor-header {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+.sponsor-title {
+  font-size: 18px;
+}
